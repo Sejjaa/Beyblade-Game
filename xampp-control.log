@@ -1,0 +1,465 @@
+5:15:32 AM  [main] 	Initializing Control Panel
+5:15:32 AM  [main] 	Windows Version:  Pro  64-bit
+5:15:32 AM  [main] 	XAMPP Version: 8.0.1
+5:15:32 AM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+5:15:32 AM  [main] 	Running with Administrator rights - good!
+5:15:32 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+5:15:32 AM  [main] 	Checking for prerequisites
+5:15:33 AM  [main] 	All prerequisites found
+5:15:33 AM  [main] 	Initializing Modules
+5:15:33 AM  [main] 	Starting Check-Timer
+5:15:33 AM  [main] 	Control Panel Ready
+5:15:35 AM  [Apache] 	Attempting to start Apache app...
+5:15:35 AM  [Apache] 	Status change detected: running
+5:15:35 AM  [mysql] 	Attempting to start MySQL app...
+5:15:36 AM  [mysql] 	Status change detected: running
+9:52:11 AM  [mysql] 	Attempting to stop MySQL app...
+9:52:12 AM  [mysql] 	Status change detected: stopped
+9:52:12 AM  [Apache] 	Attempting to stop Apache (PID: 756)
+9:52:12 AM  [Apache] 	Attempting to stop Apache (PID: 4728)
+9:52:12 AM  [Apache] 	Status change detected: stopped
+10:03:56 AM  [main] 	Deinitializing Modules
+10:03:56 AM  [main] 	Deinitializing Control Panel
+
+1:33:52 PM  [main] 	Initializing Control Panel
+1:33:52 PM  [main] 	Windows Version:  Pro  64-bit
+1:33:52 PM  [main] 	XAMPP Version: 8.0.1
+1:33:52 PM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+1:33:52 PM  [main] 	Running with Administrator rights - good!
+1:33:52 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+1:33:52 PM  [main] 	Checking for prerequisites
+1:33:53 PM  [main] 	All prerequisites found
+1:33:53 PM  [main] 	Initializing Modules
+1:33:53 PM  [main] 	Starting Check-Timer
+1:33:53 PM  [main] 	Control Panel Ready
+1:33:55 PM  [Apache] 	Attempting to start Apache app...
+1:33:55 PM  [Apache] 	Status change detected: running
+1:33:56 PM  [mysql] 	Attempting to start MySQL app...
+1:33:56 PM  [mysql] 	Status change detected: running
+9:09:31 PM  [main] 	Deinitializing Modules
+9:09:31 PM  [main] 	Deinitializing Control Panel
+
+4:33:15 PM  [main] 	Initializing Control Panel
+4:33:15 PM  [main] 	Windows Version:  Pro  64-bit
+4:33:15 PM  [main] 	XAMPP Version: 8.0.1
+4:33:15 PM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+4:33:15 PM  [main] 	Running with Administrator rights - good!
+4:33:15 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+4:33:15 PM  [main] 	Checking for prerequisites
+4:33:17 PM  [main] 	All prerequisites found
+4:33:17 PM  [main] 	Initializing Modules
+4:33:17 PM  [main] 	Starting Check-Timer
+4:33:17 PM  [main] 	Control Panel Ready
+4:33:18 PM  [Apache] 	Attempting to start Apache app...
+4:33:18 PM  [Apache] 	Status change detected: running
+4:33:19 PM  [mysql] 	Attempting to start MySQL app...
+4:33:19 PM  [mysql] 	Status change detected: running
+11:40:21 AM  [main] 	Deinitializing Modules
+11:40:21 AM  [main] 	Deinitializing Control Panel
+
+2:48:14 PM  [main] 	Initializing Control Panel
+2:48:14 PM  [main] 	Windows Version:  Pro  64-bit
+2:48:14 PM  [main] 	XAMPP Version: 8.0.1
+2:48:14 PM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+2:48:14 PM  [main] 	Running with Administrator rights - good!
+2:48:14 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+2:48:14 PM  [main] 	Checking for prerequisites
+2:48:15 PM  [main] 	All prerequisites found
+2:48:15 PM  [main] 	Initializing Modules
+2:48:15 PM  [mysql] 	XAMPP MySQL is already running on port 3306
+2:48:15 PM  [main] 	Starting Check-Timer
+2:48:15 PM  [main] 	Control Panel Ready
+2:48:18 PM  [Apache] 	Attempting to start Apache app...
+2:48:18 PM  [Apache] 	Status change detected: running
+5:30:58 PM  [mysql] 	Status change detected: stopped
+5:30:58 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+5:30:58 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+5:30:58 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+5:30:58 PM  [mysql] 	Press the Logs button to view error logs and check
+5:30:58 PM  [mysql] 	the Windows Event Viewer for more clues
+5:30:58 PM  [mysql] 	If you need more help, copy and post this
+5:30:58 PM  [mysql] 	entire log window on the forums
+5:30:58 PM  [Apache] 	Status change detected: stopped
+5:30:58 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+5:30:58 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+5:30:58 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+5:30:58 PM  [Apache] 	Press the Logs button to view error logs and check
+5:30:58 PM  [Apache] 	the Windows Event Viewer for more clues
+5:30:58 PM  [Apache] 	If you need more help, copy and post this
+5:30:58 PM  [Apache] 	entire log window on the forums
+5:30:59 PM  [main] 	Deinitializing Modules
+5:30:59 PM  [main] 	Deinitializing Control Panel
+
+6:57:16 PM  [main] 	Initializing Control Panel
+6:57:16 PM  [main] 	Windows Version:  Pro  64-bit
+6:57:16 PM  [main] 	XAMPP Version: 8.0.1
+6:57:16 PM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+6:57:16 PM  [main] 	Running with Administrator rights - good!
+6:57:16 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+6:57:16 PM  [main] 	Checking for prerequisites
+6:57:20 PM  [main] 	All prerequisites found
+6:57:20 PM  [main] 	Initializing Modules
+6:57:20 PM  [main] 	Starting Check-Timer
+6:57:20 PM  [main] 	Control Panel Ready
+6:57:54 PM  [mysql] 	Attempting to start MySQL app...
+6:57:54 PM  [mysql] 	Status change detected: running
+6:57:54 PM  [Apache] 	Attempting to start Apache app...
+6:57:55 PM  [Apache] 	Status change detected: running
+11:48:16 PM  [mysql] 	Attempting to stop MySQL app...
+11:48:16 PM  [mysql] 	Status change detected: stopped
+11:48:16 PM  [Apache] 	Attempting to stop Apache (PID: 10396)
+11:48:16 PM  [Apache] 	Attempting to stop Apache (PID: 8688)
+11:48:17 PM  [Apache] 	Status change detected: stopped
+1:51:42 AM  [main] 	Deinitializing Modules
+1:51:42 AM  [main] 	Deinitializing Control Panel
+
+8:31:14 PM  [main] 	Initializing Control Panel
+8:31:15 PM  [main] 	Windows Version:  Pro  64-bit
+8:31:15 PM  [main] 	XAMPP Version: 8.0.1
+8:31:15 PM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+8:31:15 PM  [main] 	Running with Administrator rights - good!
+8:31:15 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+8:31:15 PM  [main] 	Checking for prerequisites
+8:31:18 PM  [main] 	All prerequisites found
+8:31:18 PM  [main] 	Initializing Modules
+8:31:18 PM  [main] 	Starting Check-Timer
+8:31:18 PM  [main] 	Control Panel Ready
+8:31:20 PM  [Apache] 	Attempting to start Apache app...
+8:31:20 PM  [Apache] 	Status change detected: running
+8:31:20 PM  [mysql] 	Attempting to start MySQL app...
+8:31:21 PM  [mysql] 	Status change detected: running
+1:17:12 AM  [mysql] 	Attempting to stop MySQL app...
+1:17:13 AM  [mysql] 	Status change detected: stopped
+1:17:13 AM  [Apache] 	Attempting to stop Apache (PID: 7732)
+1:17:13 AM  [Apache] 	Attempting to stop Apache (PID: 7348)
+1:17:13 AM  [Apache] 	Status change detected: stopped
+1:17:21 AM  [main] 	Deinitializing Modules
+1:17:21 AM  [main] 	Deinitializing Control Panel
+
+1:29:08 AM  [main] 	Initializing Control Panel
+1:29:08 AM  [main] 	Windows Version:  Pro  64-bit
+1:29:08 AM  [main] 	XAMPP Version: 8.0.1
+1:29:08 AM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+1:29:08 AM  [main] 	Running with Administrator rights - good!
+1:29:08 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+1:29:08 AM  [main] 	Checking for prerequisites
+1:30:09 AM  [main] 	All prerequisites found
+1:30:09 AM  [main] 	Initializing Modules
+1:30:10 AM  [main] 	Starting Check-Timer
+1:30:10 AM  [main] 	Control Panel Ready
+1:31:22 AM  [mysql] 	Attempting to start MySQL app...
+1:31:22 AM  [mysql] 	Status change detected: running
+1:31:22 AM  [Apache] 	Attempting to start Apache app...
+1:31:23 AM  [Apache] 	Status change detected: running
+3:01:47 AM  [Apache] 	Attempting to stop Apache (PID: 6844)
+3:01:47 AM  [Apache] 	Attempting to stop Apache (PID: 5044)
+3:01:47 AM  [Apache] 	Status change detected: stopped
+3:01:48 AM  [mysql] 	Attempting to stop MySQL app...
+3:01:48 AM  [mysql] 	Status change detected: stopped
+7:15:51 AM  [main] 	Deinitializing Modules
+7:15:51 AM  [main] 	Deinitializing Control Panel
+
+12:11:29 AM  [main] 	Initializing Control Panel
+12:11:29 AM  [main] 	Windows Version:  Pro  64-bit
+12:11:29 AM  [main] 	XAMPP Version: 8.0.1
+12:11:29 AM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+12:11:29 AM  [main] 	Running with Administrator rights - good!
+12:11:29 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+12:11:29 AM  [main] 	Checking for prerequisites
+12:11:30 AM  [main] 	All prerequisites found
+12:11:30 AM  [main] 	Initializing Modules
+12:11:30 AM  [main] 	Starting Check-Timer
+12:11:30 AM  [main] 	Control Panel Ready
+12:11:32 AM  [Apache] 	Attempting to start Apache app...
+12:11:32 AM  [Apache] 	Status change detected: running
+12:11:32 AM  [mysql] 	Attempting to start MySQL app...
+12:11:33 AM  [mysql] 	Status change detected: running
+6:22:50 AM  [mysql] 	Attempting to stop MySQL app...
+6:22:50 AM  [mysql] 	Status change detected: stopped
+6:22:51 AM  [Apache] 	Attempting to stop Apache (PID: 8680)
+6:22:51 AM  [Apache] 	Attempting to stop Apache (PID: 6260)
+6:22:51 AM  [Apache] 	Status change detected: stopped
+8:49:48 AM  [main] 	Deinitializing Modules
+8:49:48 AM  [main] 	Deinitializing Control Panel
+
+5:58:26 PM  [main] 	Initializing Control Panel
+5:58:26 PM  [main] 	Windows Version:  Pro  64-bit
+5:58:26 PM  [main] 	XAMPP Version: 8.0.1
+5:58:26 PM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+5:58:26 PM  [main] 	Running with Administrator rights - good!
+5:58:26 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+5:58:26 PM  [main] 	Checking for prerequisites
+5:58:26 PM  [main] 	All prerequisites found
+5:58:26 PM  [main] 	Initializing Modules
+5:58:26 PM  [main] 	Starting Check-Timer
+5:58:26 PM  [main] 	Control Panel Ready
+5:58:28 PM  [Apache] 	Attempting to start Apache app...
+5:58:28 PM  [Apache] 	Status change detected: running
+5:58:28 PM  [mysql] 	Attempting to start MySQL app...
+5:58:28 PM  [mysql] 	Status change detected: running
+6:49:03 AM  [main] 	Deinitializing Modules
+6:49:03 AM  [main] 	Deinitializing Control Panel
+
+4:05:26 PM  [main] 	Initializing Control Panel
+4:05:26 PM  [main] 	Windows Version:  Enterprise  64-bit
+4:05:26 PM  [main] 	XAMPP Version: 8.0.1
+4:05:26 PM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+4:05:26 PM  [main] 	Running with Administrator rights - good!
+4:05:26 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+4:05:26 PM  [main] 	Checking for prerequisites
+4:05:26 PM  [main] 	All prerequisites found
+4:05:26 PM  [main] 	Initializing Modules
+4:05:26 PM  [main] 	Starting Check-Timer
+4:05:26 PM  [main] 	Control Panel Ready
+4:05:28 PM  [Apache] 	Attempting to start Apache app...
+4:05:28 PM  [mysql] 	Attempting to start MySQL app...
+4:05:28 PM  [Apache] 	Status change detected: running
+4:05:28 PM  [mysql] 	Status change detected: running
+11:43:11 AM  [main] 	Deinitializing Modules
+11:43:11 AM  [main] 	Deinitializing Control Panel
+
+12:46:02 PM  [main] 	Initializing Control Panel
+12:46:02 PM  [main] 	Windows Version:  Enterprise  64-bit
+12:46:02 PM  [main] 	XAMPP Version: 8.0.1
+12:46:02 PM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+12:46:02 PM  [main] 	Running with Administrator rights - good!
+12:46:02 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+12:46:02 PM  [main] 	Checking for prerequisites
+12:46:04 PM  [main] 	All prerequisites found
+12:46:04 PM  [main] 	Initializing Modules
+12:46:04 PM  [main] 	Starting Check-Timer
+12:46:04 PM  [main] 	Control Panel Ready
+12:46:06 PM  [Apache] 	Attempting to start Apache app...
+12:46:06 PM  [Apache] 	Status change detected: running
+12:46:06 PM  [mysql] 	Attempting to start MySQL app...
+12:46:06 PM  [mysql] 	Status change detected: running
+3:10:40 PM  [main] 	Deinitializing Modules
+3:10:40 PM  [main] 	Deinitializing Control Panel
+
+2:08:54 PM  [main] 	Initializing Control Panel
+2:08:54 PM  [main] 	Windows Version:  Enterprise  64-bit
+2:08:54 PM  [main] 	XAMPP Version: 8.0.1
+2:08:54 PM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+2:08:54 PM  [main] 	Running with Administrator rights - good!
+2:08:54 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+2:08:54 PM  [main] 	Checking for prerequisites
+2:08:58 PM  [main] 	All prerequisites found
+2:08:58 PM  [main] 	Initializing Modules
+2:08:58 PM  [main] 	Starting Check-Timer
+2:08:58 PM  [main] 	Control Panel Ready
+2:09:35 PM  [Apache] 	Attempting to start Apache app...
+2:09:35 PM  [Apache] 	Status change detected: running
+2:09:36 PM  [mysql] 	Attempting to start MySQL app...
+2:09:36 PM  [mysql] 	Status change detected: running
+3:57:28 PM  [Apache] 	Attempting to stop Apache (PID: 4568)
+3:57:28 PM  [Apache] 	Attempting to stop Apache (PID: 9416)
+3:57:28 PM  [Apache] 	Status change detected: stopped
+3:57:29 PM  [mysql] 	Attempting to stop MySQL app...
+3:57:29 PM  [mysql] 	Status change detected: stopped
+3:57:30 PM  [Apache] 	Attempting to start Apache app...
+3:57:30 PM  [Apache] 	Status change detected: running
+3:57:31 PM  [mysql] 	Attempting to start MySQL app...
+3:57:31 PM  [mysql] 	Status change detected: running
+6:36:29 AM  [mysql] 	Status change detected: stopped
+6:36:29 AM  [mysql] 	Error: MySQL shutdown unexpectedly.
+6:36:29 AM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+6:36:29 AM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+6:36:29 AM  [mysql] 	Press the Logs button to view error logs and check
+6:36:29 AM  [mysql] 	the Windows Event Viewer for more clues
+6:36:29 AM  [mysql] 	If you need more help, copy and post this
+6:36:29 AM  [mysql] 	entire log window on the forums
+6:36:29 AM  [main] 	Deinitializing Modules
+6:36:29 AM  [main] 	Deinitializing Control Panel
+
+3:21:38 PM  [main] 	Initializing Control Panel
+3:21:38 PM  [main] 	Windows Version:  Enterprise  64-bit
+3:21:38 PM  [main] 	XAMPP Version: 8.0.1
+3:21:38 PM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+3:21:38 PM  [main] 	Running with Administrator rights - good!
+3:21:38 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+3:21:38 PM  [main] 	Checking for prerequisites
+3:21:38 PM  [main] 	All prerequisites found
+3:21:38 PM  [main] 	Initializing Modules
+3:21:38 PM  [main] 	Starting Check-Timer
+3:21:38 PM  [main] 	Control Panel Ready
+3:21:40 PM  [Apache] 	Attempting to start Apache app...
+3:21:40 PM  [mysql] 	Attempting to start MySQL app...
+3:21:40 PM  [Apache] 	Status change detected: running
+3:21:40 PM  [mysql] 	Status change detected: running
+1:38:20 PM  [Apache] 	Attempting to stop Apache (PID: 5092)
+1:38:20 PM  [Apache] 	Attempting to stop Apache (PID: 1288)
+1:38:20 PM  [Apache] 	Status change detected: stopped
+1:38:21 PM  [mysql] 	Attempting to stop MySQL app...
+1:38:21 PM  [mysql] 	Status change detected: stopped
+1:38:22 PM  [Apache] 	Attempting to start Apache app...
+1:38:22 PM  [Apache] 	Status change detected: running
+1:38:22 PM  [mysql] 	Attempting to start MySQL app...
+1:38:22 PM  [mysql] 	Status change detected: running
+12:28:48 AM  [mysql] 	Attempting to stop MySQL app...
+12:28:48 AM  [mysql] 	Status change detected: stopped
+12:28:48 AM  [Apache] 	Attempting to stop Apache (PID: 4660)
+12:28:48 AM  [Apache] 	Attempting to stop Apache (PID: 11092)
+12:28:49 AM  [Apache] 	Status change detected: stopped
+12:28:52 AM  [Apache] 	Attempting to start Apache app...
+12:28:52 AM  [Apache] 	Status change detected: running
+12:28:53 AM  [mysql] 	Attempting to start MySQL app...
+12:28:53 AM  [mysql] 	Status change detected: running
+2:32:29 AM  [mysql] 	Attempting to stop MySQL app...
+2:32:29 AM  [mysql] 	Status change detected: stopped
+2:32:30 AM  [Apache] 	Attempting to stop Apache (PID: 2872)
+2:32:30 AM  [Apache] 	Attempting to stop Apache (PID: 24372)
+2:32:30 AM  [Apache] 	Status change detected: stopped
+4:05:18 AM  [main] 	Deinitializing Modules
+4:05:18 AM  [main] 	Deinitializing Control Panel
+
+2:52:28 PM  [main] 	Initializing Control Panel
+2:52:28 PM  [main] 	Windows Version:  Enterprise  64-bit
+2:52:28 PM  [main] 	XAMPP Version: 8.0.1
+2:52:28 PM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+2:52:28 PM  [main] 	Running with Administrator rights - good!
+2:52:28 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+2:52:28 PM  [main] 	Checking for prerequisites
+2:52:32 PM  [main] 	All prerequisites found
+2:52:32 PM  [main] 	Initializing Modules
+2:52:32 PM  [main] 	Starting Check-Timer
+2:52:32 PM  [main] 	Control Panel Ready
+2:52:35 PM  [Apache] 	Attempting to start Apache app...
+2:52:36 PM  [Apache] 	Status change detected: running
+2:52:36 PM  [mysql] 	Attempting to start MySQL app...
+2:52:37 PM  [mysql] 	Status change detected: running
+11:12:02 PM  [mysql] 	Attempting to stop MySQL app...
+11:12:02 PM  [mysql] 	Status change detected: stopped
+11:12:02 PM  [Apache] 	Attempting to stop Apache (PID: 5764)
+11:12:02 PM  [Apache] 	Attempting to stop Apache (PID: 3852)
+11:12:03 PM  [Apache] 	Status change detected: stopped
+11:12:15 PM  [mysql] 	Attempting to start MySQL app...
+11:12:15 PM  [mysql] 	Status change detected: running
+11:12:15 PM  [Apache] 	Attempting to start Apache app...
+11:12:15 PM  [Apache] 	Status change detected: running
+11:14:44 PM  [mysql] 	Attempting to stop MySQL app...
+11:14:44 PM  [mysql] 	Status change detected: stopped
+11:14:45 PM  [Apache] 	Attempting to stop Apache (PID: 23608)
+11:14:45 PM  [Apache] 	Attempting to stop Apache (PID: 23880)
+11:14:45 PM  [Apache] 	Status change detected: stopped
+11:14:49 PM  [main] 	Deinitializing Modules
+11:14:49 PM  [main] 	Deinitializing Control Panel
+
+9:17:53 PM  [main] 	Initializing Control Panel
+9:17:53 PM  [main] 	Windows Version:  Enterprise  64-bit
+9:17:53 PM  [main] 	XAMPP Version: 8.0.1
+9:17:53 PM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+9:17:53 PM  [main] 	Running with Administrator rights - good!
+9:17:53 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+9:17:53 PM  [main] 	Checking for prerequisites
+9:17:57 PM  [main] 	All prerequisites found
+9:17:57 PM  [main] 	Initializing Modules
+9:17:57 PM  [main] 	Starting Check-Timer
+9:17:57 PM  [main] 	Control Panel Ready
+9:21:18 PM  [Apache] 	Attempting to start Apache app...
+9:21:18 PM  [Apache] 	Status change detected: running
+9:21:18 PM  [mysql] 	Attempting to start MySQL app...
+9:21:18 PM  [mysql] 	Status change detected: running
+1:04:54 AM  [main] 	Deinitializing Modules
+1:04:54 AM  [main] 	Deinitializing Control Panel
+
+4:13:23 PM  [main] 	Initializing Control Panel
+4:13:23 PM  [main] 	Windows Version:  Enterprise  64-bit
+4:13:23 PM  [main] 	XAMPP Version: 8.0.1
+4:13:23 PM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+4:13:23 PM  [main] 	Running with Administrator rights - good!
+4:13:23 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+4:13:23 PM  [main] 	Checking for prerequisites
+4:13:28 PM  [main] 	All prerequisites found
+4:13:28 PM  [main] 	Initializing Modules
+4:13:28 PM  [main] 	Starting Check-Timer
+4:13:28 PM  [main] 	Control Panel Ready
+4:13:32 PM  [Apache] 	Attempting to start Apache app...
+4:13:32 PM  [Apache] 	Status change detected: running
+4:13:33 PM  [mysql] 	Attempting to start MySQL app...
+4:13:33 PM  [mysql] 	Status change detected: running
+4:18:10 PM  [mysql] 	Attempting to stop MySQL app...
+4:18:10 PM  [mysql] 	Status change detected: stopped
+4:18:10 PM  [Apache] 	Attempting to stop Apache (PID: 1772)
+4:18:10 PM  [Apache] 	Attempting to stop Apache (PID: 5940)
+4:18:11 PM  [Apache] 	Status change detected: stopped
+4:19:52 PM  [main] 	Deinitializing Modules
+4:19:52 PM  [main] 	Deinitializing Control Panel
+
+3:01:40 PM  [main] 	Initializing Control Panel
+3:01:41 PM  [main] 	Windows Version:  Enterprise  64-bit
+3:01:41 PM  [main] 	XAMPP Version: 8.0.1
+3:01:41 PM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+3:01:41 PM  [main] 	Running with Administrator rights - good!
+3:01:41 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+3:01:41 PM  [main] 	Checking for prerequisites
+3:02:16 PM  [main] 	All prerequisites found
+3:02:16 PM  [main] 	Initializing Modules
+3:02:16 PM  [main] 	Starting Check-Timer
+3:02:16 PM  [main] 	Control Panel Ready
+3:02:31 PM  [Apache] 	Attempting to start Apache app...
+3:02:31 PM  [Apache] 	Status change detected: running
+3:02:32 PM  [mysql] 	Attempting to start MySQL app...
+3:02:32 PM  [mysql] 	Status change detected: running
+3:43:22 PM  [mysql] 	Status change detected: stopped
+3:43:22 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+3:43:22 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+3:43:22 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+3:43:22 PM  [mysql] 	Press the Logs button to view error logs and check
+3:43:22 PM  [mysql] 	the Windows Event Viewer for more clues
+3:43:22 PM  [mysql] 	If you need more help, copy and post this
+3:43:22 PM  [mysql] 	entire log window on the forums
+3:43:22 PM  [Apache] 	Status change detected: stopped
+3:43:22 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+3:43:22 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+3:43:22 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+3:43:22 PM  [Apache] 	Press the Logs button to view error logs and check
+3:43:22 PM  [Apache] 	the Windows Event Viewer for more clues
+3:43:22 PM  [Apache] 	If you need more help, copy and post this
+3:43:22 PM  [Apache] 	entire log window on the forums
+3:43:26 PM  [main] 	Deinitializing Modules
+3:43:26 PM  [main] 	Deinitializing Control Panel
+
+3:01:40 PM  [main] 	Initializing Control Panel
+3:01:41 PM  [main] 	Windows Version:  Enterprise  64-bit
+3:01:41 PM  [main] 	XAMPP Version: 8.0.1
+3:01:41 PM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+3:01:41 PM  [main] 	Running with Administrator rights - good!
+3:01:41 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+3:01:41 PM  [main] 	Checking for prerequisites
+3:02:16 PM  [main] 	All prerequisites found
+3:02:16 PM  [main] 	Initializing Modules
+3:02:16 PM  [main] 	Starting Check-Timer
+3:02:16 PM  [main] 	Control Panel Ready
+3:02:31 PM  [Apache] 	Status change detected: running
+3:02:32 PM  [mysql] 	Status change detected: running
+3:43:22 PM  [mysql] 	Attempting to stop MySQL app...
+3:43:22 PM  [mysql] 	Status change detected: stopped
+3:43:22 PM  [Apache] 	Attempting to stop Apache (PID: 12556)
+3:43:22 PM  [Apache] 	Attempting to stop Apache (PID: 11484)
+3:43:22 PM  [Apache] 	Status change detected: stopped
+3:43:27 PM  [main] 	Deinitializing Modules
+3:43:27 PM  [main] 	Deinitializing Control Panel
+
+12:42:02 PM  [main] 	Initializing Control Panel
+12:42:02 PM  [main] 	Windows Version:  Enterprise  64-bit
+12:42:02 PM  [main] 	XAMPP Version: 8.0.1
+12:42:02 PM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+12:42:02 PM  [main] 	Running with Administrator rights - good!
+12:42:02 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+12:42:02 PM  [main] 	Checking for prerequisites
+12:42:05 PM  [main] 	All prerequisites found
+12:42:05 PM  [main] 	Initializing Modules
+12:42:05 PM  [main] 	Starting Check-Timer
+12:42:05 PM  [main] 	Control Panel Ready
+12:42:07 PM  [Apache] 	Attempting to start Apache app...
+12:42:07 PM  [Apache] 	Status change detected: running
+12:42:08 PM  [mysql] 	Attempting to start MySQL app...
+12:42:08 PM  [mysql] 	Status change detected: running
+3:34:26 PM  [Apache] 	Attempting to stop Apache (PID: 8640)
+3:34:26 PM  [Apache] 	Attempting to stop Apache (PID: 5732)
+3:34:26 PM  [Apache] 	Status change detected: stopped
+3:34:27 PM  [mysql] 	Attempting to stop MySQL app...
+3:34:27 PM  [mysql] 	Status change detected: stopped
+3:34:31 PM  [main] 	Deinitializing Modules
+3:34:31 PM  [main] 	Deinitializing Control Panel
+
